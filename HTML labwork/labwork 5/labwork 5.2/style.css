@@ -1,0 +1,35 @@
+body{
+    background:#ffffff;
+    font-family:Times New Roman, serif;
+}
+
+.card{
+    width:300px;
+    background:gray;
+    padding:20px;
+    margin:40px;
+}
+
+h1{
+    font-size:22px;
+}
+
+h2{
+    font-size:16px;
+}
+
+h3,h4,h5{
+    font-size:13px;
+}
+
+p,li{
+    font-size:14px;
+}
+
+mark{
+    background:yellow;
+}
+
+a{
+    color:black;
+}
